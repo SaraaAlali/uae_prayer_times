@@ -3,7 +3,3 @@
 
 ## 🖼️ Preview
 ![Dashboard Screenshot](docs/screenshot.png)
-
-## 🧠 About
-Python app (CLI + Streamlit) that fetches **UAE city prayer times** using the free Aladhan API.
-Built with `requests`, `pandas`, and `streamlit`.
