@@ -1,5 +1,6 @@
 ## 🌍 Live Demo
-[Open App on Streamlit](https://uaeprayertimes-uajvcmqj2fgyhkf2jzf4ar.streamlit.app)
+[Open App on Streamlit](https://uaeprayertimes-en4gvjkbeq3ledahjujnrq.streamlit.app/)
+
 
 ## 🖼️ Preview
 ![Dashboard Screenshot](docs/screenshot.png)
